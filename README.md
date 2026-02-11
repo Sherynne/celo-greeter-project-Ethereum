@@ -173,5 +173,4 @@ This project is licensed under the MIT License.
 ```
 
 
-Do you want me to create that **final version including both deployed addresses**?
-```
+
